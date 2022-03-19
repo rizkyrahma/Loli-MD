@@ -16,7 +16,7 @@ global.APIKeys = {
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
 global.ownername = 'Bot Indo'
-global.owner = ['628811929177']
+global.owner = ['6285888083107']
 global.packname = 'LoliBot MD'
 global.author = 'LoliBot MD'
 global.prefa = ['','!','.','🐦','🐤','🗿']
